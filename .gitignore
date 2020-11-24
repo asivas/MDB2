@@ -1,0 +1,12 @@
+# composer related
+/vendor/
+composer.lock
+composer.phar
+
+#PhpStorm
+.idea
+
+# eclipse
+.buildpath
+.project
+.settings
