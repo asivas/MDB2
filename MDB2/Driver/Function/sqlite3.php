@@ -45,7 +45,7 @@
 // $Id$
 //
 
-require_once 'MDB2/Driver/Function/Common.php';
+
 
 /**
  * MDB2 SQLite3 driver for the function modules

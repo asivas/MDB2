@@ -45,7 +45,7 @@
 // $Id$
 //
 
-require_once 'MDB2/Driver/Manager/Common.php';
+
 
 /**
  * MDB2 FrontBase driver for the management modules

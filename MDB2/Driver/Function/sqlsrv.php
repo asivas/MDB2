@@ -42,7 +42,7 @@
 // | Author: Frank M. Kromann <frank@kromann.info>                        |
 // +----------------------------------------------------------------------+
 
-require_once 'MDB2/Driver/Function/Common.php';
+
 
 // {{{ class MDB2_Driver_Function_sqlsrv
 /**

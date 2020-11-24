@@ -45,7 +45,7 @@
 // $Id$
 //
 
-require_once 'MDB2/Driver/Function/Common.php';
+
 
 /**
  * MDB2 MySQLi driver for the function modules

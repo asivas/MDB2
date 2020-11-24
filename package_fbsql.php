@@ -1,6 +1,6 @@
 <?php
 
-require_once 'PEAR/PackageFileManager2.php';
+
 PEAR::setErrorHandling(PEAR_ERROR_DIE);
 
 $version = 'YYY';

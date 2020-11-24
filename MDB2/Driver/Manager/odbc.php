@@ -47,7 +47,7 @@
 // $Id: mssql.php,v 1.109 2008/03/05 12:55:57 afz Exp $
 //
 
-require_once 'MDB2/Driver/Manager/Common.php';
+
 
 // {{{ class MDB2_Driver_Manager_mssql
 

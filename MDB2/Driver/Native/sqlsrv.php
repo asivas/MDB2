@@ -42,7 +42,7 @@
 // | Author: Lukas Smith <smith@pooteeweet.org>                           |
 // +----------------------------------------------------------------------+
 
-require_once 'MDB2/Driver/Native/Common.php';
+
 
 /**
  * MDB2 MSSQL driver for the native module

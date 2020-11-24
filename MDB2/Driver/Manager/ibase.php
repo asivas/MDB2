@@ -44,7 +44,7 @@
 //
 // $Id$
 
-require_once 'MDB2/Driver/Manager/Common.php';
+
 
 /**
  * MDB2 FireBird/InterBase driver for the management modules

@@ -54,7 +54,7 @@
  * @author  Lukas Smith <smith@pooteeweet.org>
  */
 
-require_once 'MDB2.php';
+
 
 /*
  * The method mapErrorCode in each MDB2_dbtype implementation maps
@@ -113,11 +113,11 @@ define('DB_GETMODE_ORDERED', DB_FETCHMODE_ORDERED);
 define('DB_GETMODE_ASSOC',   DB_FETCHMODE_ASSOC);
 define('DB_GETMODE_FLIPPED', DB_FETCHMODE_FLIPPED);
 
-require_once 'MDB2/Extended.php';
+
 define('DB_AUTOQUERY_INSERT', MDB2_AUTOQUERY_INSERT);
 define('DB_AUTOQUERY_UPDATE', MDB2_AUTOQUERY_UPDATE);
 
-require_once 'MDB2/Driver/Reverse/Common.php';
+
 define('DB_TABLEINFO_ORDER',        MDB2_TABLEINFO_ORDER);
 define('DB_TABLEINFO_ORDERTABLE',   MDB2_TABLEINFO_ORDERTABLE);
 define('DB_TABLEINFO_FULL',         MDB2_TABLEINFO_FULL);

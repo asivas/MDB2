@@ -1,7 +1,7 @@
 <?php
 
 
-require_once 'MDB2/Driver/Datatype/Common.php';
+
 
 /**
  * MDB2 MS SQL driver

@@ -44,7 +44,7 @@
 // |          Lorenzo Alberton <l.alberton@quipo.it>                      |
 // +----------------------------------------------------------------------+
 
-require_once 'MDB2/Driver/Manager/Common.php';
+
 
 // {{{ class MDB2_Driver_Manager_sqlsrv
 

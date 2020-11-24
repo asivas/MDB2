@@ -1,0 +1,64 @@
+{
+    "authors": [
+        {
+            "email": "lucas.vidaguren@asivas.com.ar",
+            "name": "Lucas Vidaguren",
+            "role": "Lead"
+        },
+        {
+            "email": "l.alberton@quipo.it",
+            "name": "Lorenzo Alberton",
+            "role": "Lead"
+        },
+        {
+            "name": "Daniel Convissor",
+            "role": "Lead"
+        },
+        {
+            "name": "Ali Fazelzadeh",
+            "role": "Helper"
+        },
+        {
+            "name": "Helgi Þormar Þorbjörnsson",
+            "role": "Contributor"
+        },
+        {
+            "email": "daniel.oconnor@gmail.com",
+            "name": "Daniel O'Connor",
+            "role": "Developer"
+        },
+        {
+            "email": "chris@cweiske.de",
+            "name": "Christian Weiske\n",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "./",
+            "MDB2",
+            "MDB2/Driver/Datatype",
+            "MDB2/Driver/Function",
+            "MDB2/Driver/Manager",
+            "MDB2/Driver/Native",
+            "MDB2/Driver/Reverse",
+            "MDB2/Driver",
+            "MDB2/Wrapper"
+        ]
+    },
+    "description": "This is de composer version for pear MDB2 by AsivasMore info available on: http://pear.php.net/package/MDB2",
+    "license": "PHP License",
+    "name": "asivas/MDB2",
+    "support": {
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=MDB2",
+        "source": "https://github.com/asvivas/MDB2"
+    },
+    "type": "library",
+    "require": {
+        "pear/pear_exception": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "minimum-stability": "dev"
+}

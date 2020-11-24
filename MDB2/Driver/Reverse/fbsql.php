@@ -45,7 +45,7 @@
 // $Id$
 //
 
-require_once 'MDB2/Driver/Reverse/Common.php';
+
 
 /**
  * MDB2 FrontBase driver for the schema reverse engineering module

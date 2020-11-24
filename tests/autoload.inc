@@ -70,14 +70,14 @@ spl_autoload_register('mdb2_test_autoload');
 /**
  * Line up PHPUnit's autoloader.
  */
-require_once 'PHPUnit/Autoload.php';
+
 
 /**
  * Gather our functions.
  */
-require_once 'functions.inc';
+
 
 /**
  * Gather our database connection information.
  */
-require_once 'dsn.inc';
+

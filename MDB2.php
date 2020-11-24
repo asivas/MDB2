@@ -52,7 +52,7 @@
  * @author      Lukas Smith <smith@pooteeweet.org>
  */
 
-require_once 'PEAR.php';
+
 
 // {{{ Error constants
 
